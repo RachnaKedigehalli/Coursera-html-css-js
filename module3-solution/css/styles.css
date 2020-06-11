@@ -1,0 +1,12 @@
+.container{
+	max-width: 95%;
+}
+
+#header-nav {
+	background-color: #9d3736;
+}
+
+#header-nav .navbar-toggler {
+	border: 1px solid #faf5ed;
+}
+
